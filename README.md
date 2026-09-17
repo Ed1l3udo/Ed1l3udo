@@ -1,3 +1,12 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2720A8,100:1B1675&height=220&section=header&text=Edileudo%20Maciel&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Algorithms+%26+Graph+Theory;Building+Software+and+Learning"
+  />
+</p>
+
 <h2 align="center">About Me</h2>
 <p>
   Hello, I'm Edileudo Maciel, just a guy who's absolutely passionate about learning and has way too many interests.
