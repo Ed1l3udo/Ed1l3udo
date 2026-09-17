@@ -1,9 +1,10 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2720A8,100:1B1675&height=220&section=header&text=Edileudo%20Maciel&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2720A8,100:1B1675&height=220&section=header&text=Edileudo%20Maciel&fontSize=45&fontColor=d8b4fe&fontAlignY=40&animation=fadeIn&desc=CS%20Student%20%40%20UFC%20%7C%20Algorithms,%20Research%20and%20Software%20Development&descSize=18&descColor=bfdbfe&descAlignY=62" width="100%"/>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Algorithms+%26+Graph+Theory;Building+Software+and+Learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D8B4FE&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Algorithms+%26+Graph+Theory;Building+Software+and+Learning"
+    alt="Typing SVG"
   />
 </p>
 
