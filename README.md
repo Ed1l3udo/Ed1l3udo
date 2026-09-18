@@ -29,11 +29,11 @@ I hope I can eventually share with the world some of what I have to offer, solve
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/edileudo-maciel-6784b0345/)">
+  <a href="https://www.linkedin.com/in/edileudo-maciel-6784b0345/">
     <img src="./assets/linkedin.svg" width="70" height="70" alt="LinkedIn">
   </a>
 
-  <a href="[SEU_INSTAGRAM](https://www.instagram.com/edileudo_maciel/)">
+  <a href="https://www.instagram.com/edileudo_maciel/">
     <img src="./assets/instagram.svg" width="70" height="70" alt="Instagram">
   </a>
 
